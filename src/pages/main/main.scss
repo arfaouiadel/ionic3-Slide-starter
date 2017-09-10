@@ -1,3 +1,11 @@
 page-main {
+    #tpbtn {
+        display: flex;
+        flex-direction: row;
+
+    }
+    #tpbtn button{
+        flex: 1;
+    }
 
 }
